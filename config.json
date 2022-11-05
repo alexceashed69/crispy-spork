@@ -1,0 +1,9 @@
+{
+	"ip":"game1.falixserver.net",
+	"port": 13216,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ohmaguturu ohmaguturu",
+	"login-cmd":"/login ohmaguturu"
+}
